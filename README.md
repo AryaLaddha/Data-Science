@@ -30,5 +30,4 @@ The <b>libraries</b> used are :
 <ul>
     <li>This is a multplie linear regression with 1 dependent and 2 independent variables.</li>
     <li>It contains the relation ship between <b>GPA</b>, <b>SAT</b>, and <b>Random third Variable</b>.</li>
-    <li>It uses the following libraries : </li>
 </ul>
