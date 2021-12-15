@@ -23,11 +23,17 @@ The <b>libraries</b> used are :
     <li>This is a simple linear regression with 1 dependent and independent variable.</li>
     <li>It contains the relation ship between <b>Real Estate prices</b> and <b>Real Estate size</b>.</li>
     <li>It uses the following libraries : </li>
-    <li>This regression is my first self-made regression.</li>
 </ul>
 <br>
 <h2> In <a href="https://github.com/AryaLaddha/data_analytics/tree/main/thirdRegression">3<sup>rd</sup> Regression</a> </h2>
 <ul>
     <li>This is a multplie linear regression with 1 dependent and 2 independent variables.</li>
     <li>It contains the relation ship between <b>GPA</b>, <b>SAT</b>, and <b>Random third Variable</b>.</li>
+    <li>This is my first multiple linear regression</li>
+</ul>
+<br>
+<h2> In <a href="https://github.com/AryaLaddha/data_analytics/tree/main/fourthRegression">4<sup>th</sup> Regression</a> </h2>
+<ul>
+    <li>This is a multplie linear regression with 1 dependent and 2 independent variables.</li>
+    <li>It contains the relation ship between <b>Real Estate prices</b> and <b>Real Estate size</b>, and <b>Year of the Real Estate</b>.</li>
 </ul>
