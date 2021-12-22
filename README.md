@@ -44,3 +44,10 @@ The <b>libraries</b> used are :
     <li>It contains the relation ship between <b>GPA</b> and <b>Attendance (categorical data)</b>, and <b>SAT</b>.</li>
     <li>This is my first linear regression with categorical data.</li>
 </ul>
+<br>
+<h2> In <a href="https://github.com/AryaLaddha/data_analytics/tree/main/sixthRegression">6<sup>th</sup> Regression</a> </h2>
+<ul>
+    <li>This is a Multiple linear regression with categorical variables.</li>
+    <li>It contains the relation ship between <b>Real Estate prices</b> and <b>View of the room (categorical data)</b>, <b>Year of the Real Estate</b>, and<b>size of the estate</b>.</li>
+    <li>This is my first multiple linear regression with categorical data.</li>
+</ul>
