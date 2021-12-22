@@ -29,11 +29,18 @@ The <b>libraries</b> used are :
 <ul>
     <li>This is a multplie linear regression with 1 dependent and 2 independent variables.</li>
     <li>It contains the relation ship between <b>GPA</b>, <b>SAT</b>, and <b>Random third Variable</b>.</li>
-    <li>This is my first multiple linear regression</li>
+    <li>This is my first multiple linear regression.</li>
 </ul>
 <br>
 <h2> In <a href="https://github.com/AryaLaddha/data_analytics/tree/main/fourthRegression">4<sup>th</sup> Regression</a> </h2>
 <ul>
     <li>This is a multplie linear regression with 1 dependent and 2 independent variables.</li>
     <li>It contains the relation ship between <b>Real Estate prices</b> and <b>Real Estate size</b>, and <b>Year of the Real Estate</b>.</li>
+</ul>
+<br>
+<h2> In <a href="https://github.com/AryaLaddha/data_analytics/tree/main/fifthRegression">5<sup>th</sup> Regression</a> </h2>
+<ul>
+    <li>This is a linear regression with categorical variables.</li>
+    <li>It contains the relation ship between <b>GPA</b> and <b>Attendance (categorical data)</b>, and <b>SAT</b>.</li>
+    <li>This is my first linear regression with categorical data.</li>
 </ul>
